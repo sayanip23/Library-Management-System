@@ -35,7 +35,6 @@ persistence between program executions.
 The program provides error messages and handles invalid
 inputs gracefully. Users are prompted with clear instructions throughout the
 interaction.
-# Usage
 # Compilation
 Compile the program using a C++ compiler, such as clang:
 clang++ -std=c++11 main.cpp User.cpp Book.cpp Librarian.cpp Faculty.cpp
